@@ -13,7 +13,7 @@ class JokeList extends React.Component {
     super(props);
     this.state = {
       jokes: JSON.parse(window.localStorage.getItem("jokes") || "[]"),
-      loading: false,
+      loading: true,
     };
     this.seenJokes = new Set(this.state.jokes.map(j => j.text));
     this.handleClick = this.handleClick.bind(this);
