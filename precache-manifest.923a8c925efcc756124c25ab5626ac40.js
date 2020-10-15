@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5bbf3d22b2aaf7029eaf141f91df7d6",
+    "revision": "9fa245c6e95934a6f153687d9a09bc78",
     "url": "/cheezjokes/index.html"
   },
   {
-    "revision": "33d427c58bb5d6e0232e",
+    "revision": "6a62417c25ea9880825a",
     "url": "/cheezjokes/static/css/main.7b2c1e77.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cheezjokes/static/js/2.02a1d08b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33d427c58bb5d6e0232e",
-    "url": "/cheezjokes/static/js/main.47d4aa34.chunk.js"
+    "revision": "6a62417c25ea9880825a",
+    "url": "/cheezjokes/static/js/main.7aafb7ed.chunk.js"
   },
   {
     "revision": "c7a7b35d4f2a5362de0b",
